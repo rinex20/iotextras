@@ -1,0 +1,11 @@
+{
+    "version":  "v3.0.0-beta.2",
+	"description": "Gost - a go simple tunnel"
+    "license":  "",
+    "extract_dir":  "c:\gost",
+    "url":  "https://github.com/go-gost/gost/releases/download/v3.0.0-beta.2/gost-windows-amd64-3.0.0-beta.2.zip",
+    "depends":  "",
+    "homepage":  "https://latest.gost.run/",
+    "hash":  "",
+    "bin":  "gost-windows-amd64.exe"
+}
